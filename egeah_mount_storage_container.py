@@ -52,6 +52,10 @@ dbutils.fs.mount(
 
 # COMMAND ----------
 
+# MAGIC %fs ls
+
+# COMMAND ----------
+
 # MAGIC %fs ls dbfs:/mnt/files/
 
 # COMMAND ----------
